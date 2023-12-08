@@ -1,0 +1,7 @@
+tmp/
+main.env
+creds/
+celery_dir/
+*.log
+*__pycache__
+gis/
