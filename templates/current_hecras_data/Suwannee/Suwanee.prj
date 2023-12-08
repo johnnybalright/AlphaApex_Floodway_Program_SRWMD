@@ -1,0 +1,37 @@
+Proj Title=Suwannee River and SantaFe River
+Current Geom=g01
+Current Flow=f02
+Default Exp/Contr=0.3,0.1
+English Units
+Geom File=g01
+Geom File=g02
+Flow File=f02
+Flow File=f01
+Plan File=p02
+Plan File=p01
+Y Axis Title=Elevation
+X Axis Title(PF)=Main Channel Distance
+X Axis Title(XS)=Station
+BEGIN DESCRIPTION:
+Upper Suwannee River Floodplain Model 10, 50, 100, 500
+Taylor Engineering
+Adapted from HEC-2 Provided by SRWMD
+
+Model was truncated to only include: Dixie, Gilchrist and LaFayette Counties.  Converted to HEC-RAS 3.1.3, with some updates to structures and adjacent cross sections August 2005 by Dewberry and Davis LLC - Atlanta Office
+
+The flodoway did not require any adjustments to width following updated survey data.  Floodway stations were moved to account for new stationing on some sections.
+END DESCRIPTION:
+DSS Start Date=
+DSS Start Time=
+DSS End Date=
+DSS End Time=
+DSS Export Filename=
+DSS Export Rating Curves= 0 
+DSS Export Rating Curve Sorted= 0 
+DSS Export Volume Flow Curves= 0 
+DXF Filename=C:\Users\johnp\OneDrive\Desktop\hecras.dxf
+DXF OffsetX= 0 
+DXF OffsetY= 0 
+DXF ScaleX= 1 
+DXF ScaleY= 1 
+GIS Export Profiles= 0 

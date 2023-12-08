@@ -1,0 +1,51 @@
+Proj Title=Suwannee River Upper Section
+Current Plan=p02
+Default Exp/Contr=0.3,0.1
+English Units
+Geom File=g01
+Flow File=f02
+Flow File=f01
+Plan File=p02
+Plan File=p01
+Y Axis Title=Elevation
+X Axis Title(PF)=Main Channel Distance
+X Axis Title(XS)=Station
+BEGIN DESCRIPTION:
+Suwannee River Floodplain model.  Converted to HEC-RAS bridge routines by Dewberry 6-31-06.
+
+Model uses fixed starting elevations for multi-profile and floodway runs at section 127.49 which ties in to the revised HEC-RAS model produced for Dixie, Gilchrist and Lafayette County DFIRMs produced in 2005 by Dewberry and URS.
+
+Datum conversions were performed as follows to convert the entire model from NGVD29 to NAVD88:
+
+Alapaha (entirely Hamilton County)				-0.76
+
+Withlacoochee (Madison and Hamiton Counties)	(-0.7+-0.76)/2 = -	0.73
+
+Suwannee Reaches:
+WtoSF (mile 127.49-Withlacoochee)	(Madison and Suwanne Counties)
+					(-0.72+-0.7)/2 =	-0.71
+
+AlatoW (Alapaha to Withlacoochee)	(Suwannee and Hamilton Countyies)
+					(-0.72+-0.76)/2 =	-0.74
+
+UpstreamEnd (State Line to Alapaha)	(Hamiton, Suwannee and Columbia Counties)
+				(-0.76+-0.72+-0.84)/3 =	-0.77
+
+
+SRWMD Floodway runs have been merged into plan file to create 1 HEC-RAS model.  Where neccessary, the cross section stations were shifted by a constant amount and the encroachment stations were adjusted accordingly to align with internal bridge sections and give correct results for HEC-RAS version 3.1.3 floodway modeling through bridges.
+
+
+END DESCRIPTION:
+DSS Start Date=
+DSS Start Time=
+DSS End Date=
+DSS End Time=
+DSS Export Filename=
+DSS Export Rating Curves= 0 
+DSS Export Rating Curve Sorted= 0 
+DSS Export Volume Flow Curves= 0 
+DXF Filename=
+DXF OffsetX= 0 
+DXF OffsetY= 0 
+DXF ScaleX= 1 
+DXF ScaleY= 10 

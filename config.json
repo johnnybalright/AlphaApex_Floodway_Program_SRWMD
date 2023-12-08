@@ -1,0 +1,47 @@
+[
+    {
+        "src": "/home/jpournelle/python_projects/plabz/river_division/main/templates/master_norise.dwg",
+        "dest": "/home/jpournelle/python_projects/plabz/river_division/main/5VE7/Cadd/23124-Base-TOPO.dwg",
+        "is_directory": false
+    },
+    {
+        "src": "/home/jpournelle/python_projects/plabz/river_division/main/templates/master_norise.dwg",
+        "dest": "/home/jpournelle/python_projects/plabz/river_division/main/5VE7/Cadd/23124-Plan-SITE.dwg",
+        "is_directory": false
+    },
+    {
+        "src": "/home/jpournelle/python_projects/plabz/river_division/main/templates/sheetset.dst",
+        "dest": "/home/jpournelle/python_projects/plabz/river_division/main/5VE7/Cadd/23124-Residence.dst",
+        "is_directory": false
+    },
+    {
+        "src": "/home/jpournelle/python_projects/plabz/river_division/main/templates/fdot_controlplans.dwg",
+        "dest": "/home/jpournelle/python_projects/plabz/river_division/main/5VE7/Cadd/23124-FDOT_Control_Plans.dwg",
+        "is_directory": false
+    },
+    {
+        "src": "/home/jpournelle/python_projects/plabz/river_division/main/templates/floodvent_fs.pdf",
+        "dest": "/home/jpournelle/python_projects/plabz/river_division/main/5VE7/Cadd/Flood-Vent-FS-HEX-Submittal-3.15.pdf",
+        "is_directory": false
+    },
+    {
+        "src": "/home/jpournelle/python_projects/plabz/river_division/main/templates/xxxx_permittable.xlsx",
+        "dest": "/home/jpournelle/python_projects/plabz/river_division/main/5VE7/Cadd/23124-PermitTable.xlsx",
+        "is_directory": false
+    },
+    {
+        "src": "/home/jpournelle/python_projects/plabz/river_division/main/templates/current_hecras_data/Suwannee",
+        "dest": "/home/jpournelle/python_projects/plabz/river_division/main/5VE7/HECRAS/Model/Current",
+        "is_directory": true
+    },
+    {
+        "src": "/home/jpournelle/python_projects/plabz/river_division/main/templates/fdot_srwmd_ecm",
+        "dest": "/home/jpournelle/python_projects/plabz/river_division/main/5VE7/Others/FDOT_SRWMD_Erosion_Control_Measures",
+        "is_directory": true
+    },
+    {
+        "src": "/home/jpournelle/python_projects/plabz/river_division/main/templates/ace_templates",
+        "dest": "/home/jpournelle/python_projects/plabz/river_division/main/5VE7/z_Templates",
+        "is_directory": true
+    }
+]

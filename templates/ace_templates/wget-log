@@ -1,0 +1,20 @@
+--2023-11-16 11:29:44--  https://www.dropbox.com/scl/fi/kdlo0fsqhqq8cduv018xw/XX.TBD.Plan-SITE-DOCK-PLAN-TEMPLATE.pdf?rlkey=1dzu70uifx7bd7ft91kq6vmqj
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.9.18, 2620:100:601f:18::a27d:912
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.9.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uc7129ea93a34bd6229d98ea37d4.dl.dropboxusercontent.com/cd/0/inline/CHqGcVWk1AIF4xBnAxOTRErpL4GuP5z7L4BFlEuNr1gMgR2lcRU18_39DSNHh03dTE1E7Xd6RwJ6Xw3brb0BVI-hfe5RfSabAvKMSP-yZSFE1oeimhp4-HhBrQ4FuzG24dJ8onvzDj59b4hcPy79_wuu/file# [following]
+--2023-11-16 11:29:45--  https://uc7129ea93a34bd6229d98ea37d4.dl.dropboxusercontent.com/cd/0/inline/CHqGcVWk1AIF4xBnAxOTRErpL4GuP5z7L4BFlEuNr1gMgR2lcRU18_39DSNHh03dTE1E7Xd6RwJ6Xw3brb0BVI-hfe5RfSabAvKMSP-yZSFE1oeimhp4-HhBrQ4FuzG24dJ8onvzDj59b4hcPy79_wuu/file
+Resolving uc7129ea93a34bd6229d98ea37d4.dl.dropboxusercontent.com (uc7129ea93a34bd6229d98ea37d4.dl.dropboxusercontent.com)... 162.125.9.15, 2620:100:601c:15::a27d:60f
+Connecting to uc7129ea93a34bd6229d98ea37d4.dl.dropboxusercontent.com (uc7129ea93a34bd6229d98ea37d4.dl.dropboxusercontent.com)|162.125.9.15|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /cd/0/inline2/CHrj4RMGKhTwAdxQm0lL3lasu7XlXzYf_w5ElrOGjS0rGqZc7K4EkAbjyfaAQbaI73KqNYjFfasWKBNye6doTmFZL0h0DfrcyeMcjcvCnrm1EBy2K6Vi1y-TWv_wuCdWoKJfa55J8f4MoA8fSywkfHC_jMl2nuXoWDKExivoCI45DHwfGb9Ii3ZxU1hoykR3jv0_qos1b3ZTMJ3q08E8FSCupSbyBi56kwUP7PNaPYXVl-qxMVlL722U5GrBP1DMuy_sgKP8zsW73uOfCQY1qq1QIFruSmCDTfRZOI4qFzeslA-e0K4OT9GFaSjjOnCYNMR2MgfZHXPG3c0pYAa2pmn876FnsgPMy7Brn_W3CLOBMD7mLxLFAW_PF6pQAyNph44/file [following]
+--2023-11-16 11:29:45--  https://uc7129ea93a34bd6229d98ea37d4.dl.dropboxusercontent.com/cd/0/inline2/CHrj4RMGKhTwAdxQm0lL3lasu7XlXzYf_w5ElrOGjS0rGqZc7K4EkAbjyfaAQbaI73KqNYjFfasWKBNye6doTmFZL0h0DfrcyeMcjcvCnrm1EBy2K6Vi1y-TWv_wuCdWoKJfa55J8f4MoA8fSywkfHC_jMl2nuXoWDKExivoCI45DHwfGb9Ii3ZxU1hoykR3jv0_qos1b3ZTMJ3q08E8FSCupSbyBi56kwUP7PNaPYXVl-qxMVlL722U5GrBP1DMuy_sgKP8zsW73uOfCQY1qq1QIFruSmCDTfRZOI4qFzeslA-e0K4OT9GFaSjjOnCYNMR2MgfZHXPG3c0pYAa2pmn876FnsgPMy7Brn_W3CLOBMD7mLxLFAW_PF6pQAyNph44/file
+Reusing existing connection to uc7129ea93a34bd6229d98ea37d4.dl.dropboxusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1624883 (1.5M) [application/pdf]
+Saving to: ‘XXXX-Dock_Plan_Template.pdf’
+
+XXXX-Dock_Plan_Template.pdf                             0%[                                                                                                                          ]       0  --.-KB/s               XXXX-Dock_Plan_Template.pdf                           100%[=========================================================================================================================>]   1.55M  --.-KB/s    in 0.1s    
+
+2023-11-16 11:29:46 (12.4 MB/s) - ‘XXXX-Dock_Plan_Template.pdf’ saved [1624883/1624883]
+

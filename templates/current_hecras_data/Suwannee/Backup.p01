@@ -1,0 +1,819 @@
+Plan Title=
+Program Version=6.20
+Short Identifier=                                                                
+Simulation Date=,,,
+Geom File=e:\ACE-RIVER\HECRAS\Suwanee.g02
+Flow File=f02
+Subcritical Flow
+K Sum by GR=-1 
+Std Step Tol= 0.003 
+Critical Tol= 0.003 
+Num of Std Step Trials= 20 
+Max Error Tol= 0.1 
+Flow Tol Ratio= 0.001 
+Split Flow NTrial= 30 
+Split Flow Tol= 0.02 
+Split Flow Ratio= 0.02 
+Log Output Level= 0 
+Friction Slope Method= 1 
+Unsteady Friction Slope Method= 2 
+Unsteady Bridges Friction Slope Method= 1 
+Parabolic Critical Depth
+Global Vel Dist= 0 , 0 , 0 
+Global Log Level= 0 
+CheckData=True
+Encroach Param=-1 ,0,0, 2 
+Encroach River=Santa Fe        
+Encroach Reach=Main            
+Encroach Node=79.85   
+       1   11748   13914
+Encroach Node=79.1    
+       1   11751   14501
+Encroach Node=78.16   
+       1   11175   14425
+Encroach Node=76.67   
+       1   11077   12902
+Encroach Node=75.55   
+       1   13117   13450
+Encroach Node=75.15   
+       1   13519   13841
+Encroach Node=75      
+       1   13519   13691
+Encroach Node=74.98   
+       1   13730   13798
+Encroach Node=74.97   
+       1   13730   13798
+Encroach Node=74.92   
+       1   12760   13058
+Encroach Node=74.35   
+       1   13535   13911
+Encroach Node=74.3    
+       1   13778   14066
+Encroach Node=74.28   
+       1   12900   13101
+Encroach Node=74.27   
+       1   12900   13101
+Encroach Node=74.23   
+       1   13778   14066
+Encroach Node=74.04   
+       1   13578   14216
+Encroach Node=73.94   
+       1   13528   14446
+Encroach Node=73.36   
+       1   11527   13077
+Encroach Node=73.32   
+       1 11906.2 13864.7
+Encroach Node=73.31   
+       1 11092.3   11363
+Encroach Node=73.3    
+       1 10888.7 12618.1
+Encroach Node=73.27   
+       1 10888.7 12618.1
+Encroach Node=72.59   
+       1   10388   11224
+Encroach Node=71.46   
+       1   11917   12761
+Encroach Node=70.18   
+       1 10513.9 11110.1
+Encroach Node=69.45   
+       1 10622.3 10950.5
+Encroach Node=69.38   
+       1   11550   11652
+Encroach Node=69.37   
+       1   11550   11652
+Encroach Node=69.22   
+       1   10831   11293
+Encroach Node=68.72   
+       1   10736   11214
+Encroach Node=67.83   
+       1 11957.3 12768.6
+Encroach Node=67.11   
+       1   10562   11152
+Encroach Node=65.99   
+       1   10799 11834.2
+Encroach Node=65.97   
+       1 10996.4   11617
+Encroach Node=65.96   
+       1 11085.6   11617
+Encroach Node=65.89   
+       1 10903.2 11798.1
+Encroach Node=65.86   
+       1 10910.1 11796.1
+Encroach Node=64.57   
+       1 10976.2 11472.7
+Encroach Node=63.6    
+       1   10143   11830
+Encroach Node=62.24   
+       1   10171   12971
+Encroach Node=61.02   
+       1   10591   13058
+Encroach Node=59.68   
+       1 11827.6 12959.4
+Encroach Node=59.66   
+       1   10865   11065
+Encroach Node=59.65   
+       1   10865   11065
+Encroach Node=59.57   
+       1 11834.8 12950.8
+Encroach Node=59.26   
+       1   11560   12380
+Encroach Node=58.81   
+       1   11510   12035
+Encroach Node=58.79   
+       1   10315   10479
+Encroach Node=58.78   
+       1   10315   10476
+Encroach Node=58.7    
+       1   11510   12335
+Encroach Node=58.15   
+       1   11398   12448
+Encroach Node=57.21   
+       1   10927   11727
+Encroach Node=56.22   
+       1   11067   11967
+Encroach Node=55.99   
+       1   11067   11967
+Encroach Node=55.96   
+       1   12460   13610
+Encroach Node=55.95   
+       1   12460   13610
+Encroach Node=55.83   
+       1   10813   12613
+Encroach Node=54.27   
+       1   11100   12385
+Encroach Node=53.44   
+       1   10333   11733
+Encroach Node=51.87   
+       1   11150   13550
+Encroach Node=49.61   
+       1   12785   14322
+Encroach Node=49.48   
+       1   13817   15609
+Encroach Node=49.46   
+       1   13901   15349
+Encroach Node=49.45   
+       1   13901   15349
+Encroach Node=49.38   
+       1   13817   15609
+Encroach Node=49.31   
+       1   13817   15609
+Encroach Node=49.29   
+       1   14693   16393
+Encroach Node=49.28   
+       1   14693   16393
+Encroach Node=49.19   
+       1 14839.3 16588.4
+Encroach Node=48.04   
+       1   16259 17693.5
+Encroach Node=46.59   
+       1 12394.1 14173.5
+Encroach Node=45.48   
+       1 10484.9 12085.4
+Encroach Node=44.02   
+       1   11805   13551
+Encroach Node=42.54   
+       1   10083   14281
+Encroach Node=41.67   
+       1   11164   14130
+Encroach Node=41.63   
+       1   11164   14130
+Encroach Node=41.62   
+       1   11321   14621
+Encroach Node=41.61   
+       1   11321   14621
+Encroach Node=41.56   
+       1   10640   14637
+Encroach Node=40.91   
+       1   10572   12069
+Encroach Node=39.81   
+       1   11200   12953
+Encroach Node=39.02   
+       1   10108   10730
+Encroach Node=37.98   
+       1   10982   13472
+Encroach Node=37.25   
+       1   10533   13666
+Encroach Node=37.19   
+       1   10533   13666
+Encroach Node=37.17   
+       1   10550   13865
+Encroach Node=37.16   
+       1   10550   13865
+Encroach Node=37.07   
+       1   10406   13994
+Encroach Node=35.58   
+       1   10782   16371
+Encroach Node=35.57   
+       1   10782   16371
+Encroach Node=33.85   
+       1   10981   15203
+Encroach Node=33.09   
+       1   11012   13334
+Encroach Node=32.18   
+       1   11413   13528
+Encroach Node=30.42   
+       1   10675   17380
+Encroach Node=28.94   
+       1   10136   14876
+Encroach Node=27.82   
+       1   10997   13555
+Encroach Node=27.79   
+       1   10997   13555
+Encroach Node=27.77   
+       1   10897   13384
+Encroach Node=27.76   
+       1   10897   13384
+Encroach Node=27.68   
+       1   10373   12821
+Encroach Node=26.52   
+       1    9800   12900
+Encroach Node=25.19   
+       1   11176   11726
+Encroach Node=24.54   
+       1   10906   11301
+Encroach Node=24.52   
+       1   10906   11301
+Encroach Node=24.51   
+       1   11125   11595
+Encroach Node=24.5    
+       1   11125   11595
+Encroach Node=24.49   
+       1   10906   11301
+Encroach Node=24.48   
+       1   11678   12222
+Encroach Node=24.47   
+       1   11678   12222
+Encroach Node=24.44   
+       1   10942   11309
+Encroach Node=24.15   
+       1   10471   11010
+Encroach Node=23.82   
+       1   10508   10999
+Encroach Node=23.14   
+       1   10720   11461
+Encroach Node=22.24   
+       1   10634   11158
+Encroach Node=21.59   
+       1   12184   12725
+Encroach Node=20.44   
+       1   10537   11905
+Encroach Node=19.62   
+       1   10940   12164
+Encroach Node=18.49   
+       1   10716   12303
+Encroach Node=17.78   
+       1   11513   13128
+Encroach Node=17.28   
+       1   10213   11698
+Encroach Node=16.53   
+       1   11939   13607
+Encroach Node=15.75   
+       1   13828   15755
+Encroach Node=15.72   
+       1 13974.5 15901.5
+Encroach Node=15.7    
+       113800.2515570.25
+Encroach Node=15.66   
+       1   14195   15938
+Encroach Node=15.08   
+       1   10868   12511
+Encroach Node=14.08   
+       1   11417   13300
+Encroach Node=13.03   
+       1   12170   14002
+Encroach Node=11.3    
+       1   11380   12995
+Encroach Node=10.06   
+       1   10391   11608
+Encroach Node=8.43    
+       1   12043   14142
+Encroach Node=7.64    
+       1   11909   13603
+Encroach Node=6.46    
+       1   13592   15193
+Encroach Node=4.73    
+       1   10932   12384
+Encroach Node=3.6     
+       1   10109   11719
+Encroach Node=2.88    
+       1   10951   12711
+Encroach Node=2.5     
+       1   11586   13299
+Encroach Node=2.46    
+       1   10705   12409
+Encroach Node=2.42    
+       110471.6612121.66
+Encroach Node=2.39    
+       1   11054   12568
+Encroach Node=1.61    
+       1   10219   11589
+Encroach River=Suwannee        
+Encroach Reach=BelowSF         
+Encroach Node=65.66   
+       1   15173   22192
+Encroach Node=63.87   
+       1   11283   15888
+Encroach Node=63.27   
+       1   10872   17455
+Encroach Node=62.67   
+       1   11369   18740
+Encroach Node=62.24   
+       1   10539   19904
+Encroach Node=61.75   
+       1   12213   20931
+Encroach Node=60.91   
+       1   11324   14718
+Encroach Node=60.38   
+       1   17809   20000
+Encroach Node=60.36   
+       1 12890.6   18955
+Encroach Node=59.56   
+       1    6939 12872.9
+Encroach Node=58.2    
+       1  5751.7 11047.7
+Encroach Node=57.9    
+       1    588410229.29
+Encroach Node=56.9    
+       1 5905.2611503.76
+Encroach Node=56.53   
+       1    619813198.31
+Encroach Node=55.31   
+       1    4711    9204
+Encroach Node=53.94   
+       1    6305   13000
+Encroach Node=52.03   
+       1  5241.112967.96
+Encroach Node=50.53   
+       1  5680.411585.24
+Encroach Node=47.35   
+       1 8627.6413422.92
+Encroach Node=44.31   
+       1   18404   22661
+Encroach Node=41.97   
+       121589.5425774.01
+Encroach Node=39.76   
+       1 22097.4 27175.2
+Encroach Node=38.9    
+       123038.4931829.46
+Encroach Node=37.9    
+       1 24332.7 29319.7
+Encroach Node=37.38   
+       1   20952   25199
+Encroach Node=36.1    
+       1   19720   25555
+Encroach Node=35.9    
+       1 4257.55 6720.55
+Encroach Node=34.9    
+       1 4287.23 6700.43
+Encroach Node=34.21   
+       1    3944   10020
+Encroach Node=33.48   
+       1    6978   10150
+Encroach Node=32.32   
+       1    8245   11166
+Encroach Node=30.46   
+       1   13104   16201
+Encroach Node=28.07   
+       1   13760   18448
+Encroach Node=26.54   
+       119165.41 22696.1
+Encroach Node=24.83   
+       1   11938   15621
+Encroach Node=23.47   
+       1    6630   10578
+Encroach Node=21.49   
+       1   17326   22173
+Encroach Node=19.92   
+       1   19869   26472
+Encroach Node=17.65   
+       1   23194   31001
+Encroach Node=15.4    
+       1   24298   31389
+Encroach Node=13.11   
+       1   26701   41400
+Encroach Node=9.81    
+       1   31912   47714
+Encroach Node=7.49    
+       1   39512   53434
+Encroach Node=5.83    
+       1   53257   71534
+Encroach Node=3.15    
+       1   49704   72725
+Encroach Reach=WtoSF           
+Encroach Node=127.51  
+       1   11175   16586
+Encroach Node=127.49  
+       1   11175   16586
+Encroach Node=127.47  
+       1   10661   16102
+Encroach Node=127.46  
+       1   10661   16102
+Encroach Node=127.44  
+       1   10900   16327
+Encroach Node=127.38  
+       1   10900   16327
+Encroach Node=127.35  
+       1   10900   16327
+Encroach Node=127.33  
+       1   11000   16840
+Encroach Node=127.32  
+       1   11000   16840
+Encroach Node=127.3   
+       1   11950   17780
+Encroach Node=127.24  
+       1   11950   17780
+Encroach Node=126.58  
+       1   11200   15729
+Encroach Node=125.56  
+       1   12475   17810
+Encroach Node=124.93  
+       1   12567   18886
+Encroach Node=124.88  
+       1   12567   18886
+Encroach Node=124.86  
+       1   12478   19170
+Encroach Node=124.85  
+       1   12478   19170
+Encroach Node=124.83  
+       1   12134   18877
+Encroach Node=124.78  
+       1   12134   18877
+Encroach Node=124.42  
+       1   12338   20334
+Encroach Node=122.45  
+       1   16777   21388
+Encroach Node=121.63  
+       1   19677   24546
+Encroach Node=120.87  
+       113195.4219331.25
+Encroach Node=119.69  
+       111740.1118355.39
+Encroach Node=118.66  
+       113289.1318112.82
+Encroach Node=117.17  
+       114644.9219079.15
+Encroach Node=116.26  
+       112012.2316988.05
+Encroach Node=114.94  
+       1   14480   17107
+Encroach Node=114.37  
+       1   14720   17255
+Encroach Node=113.29  
+       1   11877   15570
+Encroach Node=112.92  
+       1   11126   14179
+Encroach Node=112.91  
+       1   13430   16483
+Encroach Node=112.88  
+       1   13457   16458
+Encroach Node=112.86  
+       1   13511   16512
+Encroach Node=112.83  
+       1   14273   17320
+Encroach Node=112.8   
+       1   14273   17320
+Encroach Node=112.77  
+       1   14154   17096
+Encroach Node=112.72  
+       1   13615   16557
+Encroach Node=112.46  
+       1   13568   15834
+Encroach Node=112.17  
+       1   13303   15450
+Encroach Node=111.18  
+       1   1334216316.48
+Encroach Node=110.69  
+       1   11466   14165
+Encroach Node=109.87  
+       1   12956   16119
+Encroach Node=109.22  
+       1   14193   17538
+Encroach Node=108.57  
+       114546.8717280.01
+Encroach Node=107.88  
+       1   13828   16417
+Encroach Node=107.34  
+       1   14064   17627
+Encroach Node=106.69  
+       113529.3117864.05
+Encroach Node=105.88  
+       113743.39 17683.6
+Encroach Node=105.36  
+       115834.33   19297
+Encroach Node=104.59  
+       113718.1817202.81
+Encroach Node=104.03  
+       1   13700   17268
+Encroach Node=103.3   
+       1   14318   18210
+Encroach Node=102.89  
+       1   17687   21090
+Encroach Node=101.82  
+       1   15517   19825
+Encroach Node=101.48  
+       1 14893.8 19782.6
+Encroach Node=100.51  
+       114272.9917799.21
+Encroach Node=100.23  
+       1   14900   18661
+Encroach Node=99.18   
+       1   14714   20826
+Encroach Node=98.23   
+       1   14076   20826
+Encroach Node=98.19   
+       1   13909   20693
+Encroach Node=98.169  
+       1 13908.7 20514.7
+Encroach Node=98.12   
+       1   14112   20718
+Encroach Node=97.37   
+       1   12000   18100
+Encroach Node=96.6    
+       1   12300   17600
+Encroach Node=95.91   
+       113228.8817520.16
+Encroach Node=95.541  
+       1   14053   19214
+Encroach Node=95.54   
+       1   13953   19212
+Encroach Node=93.85   
+       1   17046   19061
+Encroach Node=92.89   
+       1   15110   17179
+Encroach Node=92.2    
+       1   15200   17150
+Encroach Node=91.48   
+       1   11968   14288
+Encroach Node=90.11   
+       1 13792.516627.67
+Encroach Node=89.24   
+       1   17057   21161
+Encroach Node=88.24   
+       1   17816   20540
+Encroach Node=87.45   
+       1   20732   23657
+Encroach Node=86.73   
+       1   20546   23972
+Encroach Node=85.95   
+       1   18864   23034
+Encroach Node=85.7    
+       1   20999   25109
+Encroach Node=84.85   
+       1   15027   18561
+Encroach Node=84.2    
+       1   17588   21670
+Encroach Node=83.08   
+       1   16417   20776
+Encroach Node=82.16   
+       1   16586   22193
+Encroach Node=81.59   
+       1   18793   23013
+Encroach Node=81.32   
+       1   19185   23588
+Encroach Node=80.2    
+       1   12000   17554
+Encroach Node=79.52   
+       1   16035   20721
+Encroach Node=79.01   
+       1   13500   18053
+Encroach Node=78.5    
+       1   13000   17960
+Encroach Node=77.99   
+       111898.0814888.81
+Encroach Node=77.49   
+       1   11600   15174
+Encroach Node=77.06   
+       1   11548   13937
+Encroach Node=76.77   
+       1   11541   15594
+Encroach Node=76.51   
+       1   11012   14595
+Encroach Node=76.15   
+       1   1101216048.84
+Encroach Node=76.12   
+       1   1133416370.17
+Encroach Node=76.1    
+       111634.9515127.66
+Encroach Node=76.06   
+       1   10968   14640
+Encroach Node=75.84   
+       1   1073115237.19
+Encroach Node=75.58   
+       1   15156   19780
+Encroach Node=75.07   
+       114978.0619456.14
+Encroach Node=74.71   
+       113342.8417107.24
+Encroach Node=74.27   
+       1   13902   17310
+Encroach Node=73.55   
+       1   12687   17648
+Encroach Node=73.09   
+       1   15083   20157
+Encroach Node=72.77   
+       1   16325   20594
+Encroach Node=71.96   
+       1   15588   21664
+Encroach Node=70.98   
+       1   15366   21709
+Encroach Node=69.16   
+       1   11039   18223
+Encroach Node=68.53   
+       1   13250   18969
+Encroach Node=66.47   
+       1   17087   24124
+Computation Interval=1HOUR
+Output Interval=1HOUR
+Instantaneous Interval=1HOUR
+Mapping Interval=1HOUR
+Computation Time Step Use Courant=        0
+Computation Time Step Use Time Series=    0
+Computation Time Step Max Courant=
+Computation Time Step Min Courant=
+Computation Time Step Count To Double=0
+Computation Time Step Max Doubling=0
+Computation Time Step Max Halving=0
+Computation Time Step Residence Courant=0
+Run HTab= 0 
+Run UNet= 0 
+Run Sediment= 0 
+Run PostProcess= 0 
+Run WQNet= 0 
+Run RASMapper= 0 
+UNET Theta= 1 
+UNET Theta Warmup= 1 
+UNET ZTol= 0.02 
+UNET ZSATol= 0.1 
+UNET QTol=
+UNET MxIter= 20 
+UNET Max Iter WO Improvement= 0 
+UNET MaxInSteps= 20 
+UNET DtIC= 0 
+UNET DtMin= 0 
+UNET MaxCRTS= 20 
+UNET WFStab= 2 
+UNET SFStab= 1 
+UNET WFX= 1 
+UNET SFX= 1 
+UNET Gravity=32.174
+UNET 1D Methodology=Finite Difference
+UNET DSS MLevel= 4 
+UNET Pardiso=0
+UNET DZMax Abort= 100 
+UNET Use Existing IB Tables=-1 
+UNET Froude Reduction=False
+UNET Froude Limit= 1 
+UNET Froude Power= 10 
+UNET D1 Cores= 0 
+UNET WindReference=Eulerian
+UNET WindDragFormulation=Hsu (1988)
+UNET D2 Coriolis=0
+UNET D2 Cores= 0 
+UNET D2 Theta= 1 
+UNET D2 Theta Warmup= 1 
+UNET D2 Z Tol= 0.01 
+UNET D2 Volume Tol= 0.01 
+UNET D2 Max Iterations= 20 
+UNET D2 Equation= 0 
+UNET D2 TotalICTime=
+UNET D2 RampUpFraction=0.1
+UNET D2 TimeSlices= 1 
+UNET D2 Turbulence Formulation=Non-Conservative (original)
+UNET D2 Eddy Viscosity=0.3
+UNET D2 Transverse Eddy Viscosity=0.1
+UNET D2 Smagorinsky Mixing=0
+UNET D2 BCVolumeCheck=0
+UNET D2 Latitude=
+UNET D2 Cores=0
+UNET D2 SolverType=PARDISO (Direct)
+UNET D2 Minimum Iterations= 2147483647 
+UNET D2 Maximum Iterations= 2147483647 
+UNET D2 Restart Number= 10 
+UNET D2 Relaxation Coeff=1.3
+UNET D2 SOR Precondition Iterations= 10 
+UNET D2 ILUT Maximum Fill= 8 
+UNET D2 ILUT Tolerance=1E-08
+UNET D2 Convergence Tolerance=
+UNET D1D2 MaxIter= 0 
+UNET D1D2 ZTol=0.01
+UNET D1D2 QTol=0.1
+UNET D1D2 MinQTol=1
+Write IC File= 0 
+Write IC File at Fixed DateTime=0
+IC Time=,,
+Write IC File Reoccurance=
+Write IC File at Sim End=0
+Echo Input=False
+Echo Parameters=False
+Echo Output=False
+Write Detailed= 0 
+HDF Write Warmup=0
+HDF Write Time Slices=0
+HDF Flush=0
+HDF Compression= 1 
+HDF Chunk Size= 1 
+HDF Spatial Parts= 1 
+HDF Use Max Rows=0
+HDF Fixed Rows= 1 
+Calibration Method= 0 
+Calibration Iterations= 20 
+Calibration Max Change=0.05
+Calibration Tolerance=0.2
+Calibration Maximum=1.5
+Calibration Minimum=0.5
+Calibration Optimization Method= 1 
+Calibration Window=,,,
+WQ AD Non Conservative
+WQ ULTIMATE=-1
+WQ Max Comp Step=1HOUR
+WQ Output Interval=15MIN
+WQ Output Selected Increments= 0 
+WQ Output face flow=0
+WQ Output face velocity=0
+WQ Output face area=0
+WQ Output face dispersion=0
+WQ Output cell volume=0
+WQ Output cell surface area=0
+WQ Output cell continuity=0
+WQ Output cumulative cell continuity=0
+WQ Output face conc=0
+WQ Output face dconc_dx=0
+WQ Output face courant=0
+WQ Output face peclet=0
+WQ Output face adv mass=0
+WQ Output face disp mass=0
+WQ Output cell mass=0
+WQ Output cell source sink temp=0
+WQ Output nsm pathways=0
+WQ Output nsm derived pathways=0
+WQ Create Restart=0
+WQ Fixed Restart=0
+WQ Restart Simtime=
+WQ Restart Date=
+WQ Restart Hour=
+WQ System Summary=0
+WQ Write To DSS=0
+Sorting and Armoring Iterations= 10 
+XS Update Threshold= 0.02 
+Bed Roughness Predictor= 0 
+Hydraulics Update Threshold= 0.02 
+Energy Slope Method= 1 
+Volume Change Method= 1 
+Sediment Retention Method= 0 
+Sediment TS Multiplier= 1 
+Warm Up Method= 0 
+Warm Up Duration=
+Warm Up Duration - Concentration=
+Warm Up Duration - Gradation=
+Warm Up Duration - Bathymetry=
+XS Weighting Method= 0 
+Number of US Weighted Cross Sections= 1 
+Number of DS Weighted Cross Sections= 1 
+Upstream XS Weight=0
+Main XS Weight=1
+Downstream XS Weight=0
+Number of DS XS's Weighted with US Boundary= 1 
+Upstream Boundary Weight= 1 
+Weight of XSs Associated with US Boundary= 0 
+Number of US XS's Weighted with DS Boundary= 1 
+Downstream Boundary Weight= 0.5 
+Weight of XSs Associated with DS Boundary= 0.5 
+Percentile Method= 0 
+Sediment Output Level= 3 
+Mass or Volume Output= 0 
+Output Increment Type= 1 
+Profile and TS Output Increment= 1 
+Transport Output Increment 1 
+XS Output Flag= 0 
+XS Output Increment= 10 
+Read HDF5 Sediment Hotstart= 0 
+Sediment Hotstart Type= 0 
+Sediment Hotstart File=
+Sediment Hotstart Date=
+Sediment Hotstart Time=
+Write Gradation File= 0 
+Read Gradation Hotstart= 0 
+Gradation File Name=
+Write HDF5 File= 1 
+Write Binary Output= 1 
+Write DSS Sediment File= 0 
+DSS Sediment Output Type= 1 
+DSS Location=
+Summary Reach=
+SV Curve= 0 
+Specific Gage Flag= 0 
+Subcell Erosion Methods= 0 
+Subcell Deposition Methods= 0 
+Advection Scheme= 1 
+Matrix Solver= 0 
+Implicit Weighting Factor= 1 
+Maximum Outer Loop Convergence Iterations= 5 
+Convergence Maximum Absolute= 0.001 
+Convergence RMSE= 0.0001 
+Grain Fractions Max Abs Error= 0.001 
+Max Subgrid Regions= 1 
+Max Subgrid Length Scale= 3.402823E+38 
+Initial Layer Thickness= 3.402823E+38 
+Min Layer Thickness= 3.402823E+38 
+Max Layer Thickness= 3.402823E+38 
+Number of Layers= 5 
